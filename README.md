@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Mamdoh-Zeyad.
-- 👀 I’m interested in Java development and Java Server Pages.
-- 🌱 I’m currently learning Java Server Pages.
+- 👋 Hi, I’m Mamdoh Zeyad. I study at the University of Jeddah - software engineering. 
+- 👀 I am interested in software development, in particular (Web Development).
 - 📫 How to reach me mamdohzx@gmail.com
 
 <!---
